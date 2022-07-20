@@ -6,3 +6,5 @@
     - библиотека MaterialUI,
     - пагинация с использованием библиотеки MaterialUI,
     - метод fetch(), методы HTTP запросов (GET, POST, PUT, PATCH, DELETE).
+#### • Для использования приложения необходимо зарегистрироваться, ввести Email и придумать пароль.
+#### • Ссылка на сайт: https://dmitriy-vasilenko.github.io/pet-project-final/.
